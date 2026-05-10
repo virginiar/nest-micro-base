@@ -66,3 +66,9 @@ Para la gestión de variables de entorno:
 ```bash
 $ npm install dotenv
 ```
+
+Para los esquemas de validación:
+
+```bash
+$ npm install joi
+```

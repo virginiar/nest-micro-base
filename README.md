@@ -1,0 +1,45 @@
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+</p>
+
+# Nest-Micro-Base
+
+Aplicación de repaso de [Nest](https://github.com/nestjs/nest) basado en el curso de "NestJs + Microservicios: Aplicaciones escalables y modulares" de [DevTalles](https://cursos.devtalles.com/) en Udemy.
+
+## Configuración del proyecto
+
+1. Instalar NestJS CLI
+
+```bash
+$ npm i -g @nestjs/cli
+```
+2. Clonar el repositorio
+
+3. Instalar las dependencias
+
+```bash
+$ npm install
+```
+4. Ejecutar el proyecto
+
+```bash
+$ npm run start:dev
+```
+
+## Aspectos estudiados
+
+En esta API se trabajan los siguientes aspectos de Nest:
+-	Módulos
+-	Controladores
+-	Servicios
+-	DTOs (Data Transfer Objects)
+-	Pipes
+-	REST
+  -	Create
+  -	Update / Patch
+  -	Delete
+  -	Get
+-	Validaciones
+-	Nest CLI
+
+## Librerías utilizadas

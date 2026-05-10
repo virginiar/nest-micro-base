@@ -20,7 +20,12 @@ $ npm i -g @nestjs/cli
 ```bash
 $ npm install
 ```
-4. Ejecutar el proyecto
+
+4. Clonar el archivo .env.template y renombrar la copia a ```.env```.
+
+5. Completar las variables de entorno en el archivo ```.env```.
+
+6. Ejecutar el proyecto
 
 ```bash
 $ npm run start:dev
@@ -54,4 +59,10 @@ Para la generación de UUID:
 
 ```bash
 $ npm install uuid
+```
+
+Para la gestión de variables de entorno:
+
+```bash
+$ npm install dotenv
 ```

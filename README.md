@@ -43,3 +43,9 @@ En esta API se trabajan los siguientes aspectos de Nest:
 -	Nest CLI
 
 ## Librerías utilizadas
+
+Para las validaciones se utilizan:
+
+```bash
+$ npm install class-validator class-transformer
+```

@@ -49,3 +49,9 @@ Para las validaciones se utilizan:
 ```bash
 $ npm install class-validator class-transformer
 ```
+
+Para la generación de UUID:
+
+```bash
+$ npm install uuid
+```
